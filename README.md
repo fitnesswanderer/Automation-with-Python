@@ -2,12 +2,19 @@
 
 ## Contents
 1.Motivation
+
 2. Regular expressions theory
-3. Regular expressions syntax
+3. 
+4. Regular expressions syntax
+5. 
   3.1 Metacharacters
+  
   3.2 Methods
-4. Real world scenario examples
+  
+5. Real world scenario examples
+6. 
   4.1 Strong password detection
+  
   4.2 Find website URLs that begin with http:// or https://.
 
 ## Motivation
