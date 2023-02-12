@@ -12,7 +12,7 @@
   
    >3.2 Methods
   
-4.Real world scenario examples
+4.Real world  examples
  
   >4.1 Strong password detection
   
