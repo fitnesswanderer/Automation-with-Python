@@ -17,9 +17,7 @@
   >4.1 Strong password detection
   
   >4.2 Find website URLs that begin with http:// or https://.
-  
-  >4.3 	 Clean up dates in different date formats (such as 7/24/2020, 07-24-2020, 
-and 2020/7/24) by replacing them with dates in a single, standard format.
+
 
 ## Motivation
 During my freelancing job, there were numerous instances when I had to explain regular expressions to one of my team members to make our work easier.If you are involved in implementing natural language programming, this can be handy as text tokenization using regular expressions. I started to practice simple tasks to get better at it. In addition, I had a data where there was lot of information and I had to extract phone number and email from that data for further processing of data. Regular expressions came to my rescue. Hence, I am sharing my learnings about this topic in a simplified manner.
